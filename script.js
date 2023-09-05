@@ -8,13 +8,12 @@ let toppers = [
 ]
 
 let dragons = [
-    ["PurpleAndGreenDragons", 7, "A purple dragon is sleeping with her green dragonets.", "https://www.ebay.com/itm/404404430618?hash=item5e2861e71a:g:eyoAAOSwG09ktfNR&amdata=enc%3AAQAIAAAA4F5zrYgFI20EABPUBlaKXUzP3v9MsmsiMefloWPxa4%2B%2FyZhGIko2lMNlKCiEr8v%2FdHHV2nXkW3aulK17DmlYDlCLIizwPliyS%2BVrEmJTeIH6hQDJCrLUyWEz01APxc6DBm67XTrdVCns6tW49j36Zs4myfAaZPAQwU7tvy22ziID4aiZia6Phoi3mwdadfwdH9eZIIMne4JbqQJpe0%2BKfIg8qH52KywA1DFTSFUTrNN4W2I2BPIj7fRpJZIjacMNVod%2BVmN796AJKCl%2FqvmMP5D2KiSJF2zlpc5GTElFfkPL%7Ctkp%3ABk9SR8itx-O8Yg"],
+    ["PurpleAndGreenDragons", 7, "A purple dragon is sleeping with her green dragonets.", "https://pay.claycatclaystudio.com"],
     
 ]
 
 let cats = [
-    [],
-    []
+    [],vzz
 ]
 
 let scenes = [
@@ -38,7 +37,7 @@ let sculptures = [
 ]
 
 let others = [
-    ["REALLYCOOLMOOSE", 17, "Big, moose, resting in some grass", "https://www.ebay.com/itm/204419787424?hash=item2f985e6aa0:g:bt0AAOSwuvNkzs7J&amdata=enc%3AAQAIAAAAwPdDqDGfIwjcNHqPW1nYV1dRUSbNyksi3awbE%2BnUV0W59bgyGqUE3xVZeq2NSPaW4UckQ5BKB8enZTCzvc4yOxK%2BboWMFgenzaDxarsUwhEaAsRBGfvFohhlhTf5Juk9DQLtSU5%2B6bmSymYOpIfQ7ojiD8e3w6gPmGEwZxe1LNzFE4PJ95Bcy%2Fo2dAYnyVOCEF00%2FKPzbtYqpPkswWAySqIWbPDWQXWw4fxBGYf%2BHSolMo0NMs%2BMna%2B8fJxWXoqahw%3D%3D%7Ctkp%3ABk9SR9C7kOS8Yg"],
+    ["REALLYCOOLMOOSE", 17, "Big, moose, resting in some grass", "https://pay.claycatclaystudio.com"],
 ]
 
 function fillImages(imageType) {
